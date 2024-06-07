@@ -3,7 +3,7 @@ function App() {
     <>
       <div>PivotTest</div>
       <div>NetlifyTest</div>
-      <div>Deploy</div>
+      <div>Deploy2</div>
     </>
   );
 }
